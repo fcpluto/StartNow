@@ -1,0 +1,2 @@
+# StartNow
+record programming life
