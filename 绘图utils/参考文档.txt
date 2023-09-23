@@ -1,0 +1,3 @@
+https://nbviewer.jupyter.org/github/matplotlib/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part2-Plotting_Methods_Overview.ipynb
+
+https://mp.weixin.qq.com/s/JVaR6p1B0XeGvWN-UGOPvw
